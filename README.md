@@ -23,4 +23,6 @@ The uC cannot be left naked of course, so I designed a PCB that offers, aside fr
 
 Another feature I borrowed from a commerical product is the skipping function. It will be realized by two piezo disks as knock detectors. Tracks can be skipped forward by a knock to the right and backward by a knock to the left. That is virtually free (2c for a piezo disk), impossible to break and I can ditch the KY040 from blast, which has shown to be not sturdy enough for an average two year old. Volume can than be controlled by a normal analog potentiometer, which is much more robust.
 
+The overall costs for the electronics should be around 10€, on top comes the speaker (and blocking circuit), in my case about 25€ and the wood for the case (around 6€). Depending on what you want, the battery will be another 10-20€, although it should also be possible to power the device from a 9V block. So, consumables included, one should be able to build the device for about 60€. With a different speaker design and by ditching the battery option, it should be possible to get as low as 25€.
+
 I will update this site once I have assembled a prototype, which will be in a few weeks, as I'm waiting for several components to be delivered from China.
